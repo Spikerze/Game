@@ -1,5 +1,5 @@
 # Game
-stone paper scissor game using python 
+rock paper scissor game using python 
 
 import random
 
